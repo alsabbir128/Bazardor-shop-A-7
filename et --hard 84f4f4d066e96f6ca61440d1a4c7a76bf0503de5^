@@ -1,0 +1,122 @@
+[33mcommit 84f4f4d066e96f6ca61440d1a4c7a76bf0503de5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/v0/add-33-products[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Sat Oct 10 02:06:52 2026 +0000
+
+    Link product cards to API detail pages
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit 106e212e4cd3d1fd43f6fad9c91f2768dfe088c8[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Sat Oct 10 02:04:28 2026 +0000
+
+    Use Bazardor API data and complete requirements
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit b8caf9e8205cf85363123fbca9ee21eff3e2d0cb[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Sat Oct 10 01:56:19 2026 +0000
+
+    Use Supabase for persistent email password auth
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit 45edcdd49ca3f8aab074bc1a235979f4c4312c1f[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Fri Oct 9 16:38:52 2026 +0000
+
+    Use signed-in user details and clear account on signout
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit 35d5d6e095c0ba3d3fb6ed53b3455b9da74392b7[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Fri Oct 9 16:29:08 2026 +0000
+
+    Show current Bengali date in header
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit cf943d51f8454f135694a5b8fc3dbbad291a8f30[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Fri Oct 9 16:28:03 2026 +0000
+
+    Add signed-in account profile experience
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit d0bd5e027d56f42920e1b388bf819043d9b1d1f2[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Fri Oct 9 16:04:51 2026 +0000
+
+    Align headers and page content left
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit 3ee56ce92ad74abe90f686e29264cb4b4afc3f13[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Fri Oct 9 16:01:12 2026 +0000
+
+    Add complete 33-product market catalog
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit 376b22e0e9fa80e5b27285175e888dce1b064735[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Thu Oct 8 09:22:41 2026 +0000
+
+    feat: enhance product page with trend indicators and price summary
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit ea0f341411f0e7c9b79e5b8c686fa4a238366253[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Thu Oct 8 09:19:58 2026 +0000
+
+    feat: adjust text direction for market updates section
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit b3bb839dd9c748d2d66bef007efdd4633be04eeb[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Thu Oct 8 09:17:52 2026 +0000
+
+    feat: update font and layout for market page
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit b5bcc68c71c7605bada5553d598ad5602fae12bb[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Thu Oct 8 09:14:08 2026 +0000
+
+    feat: update font and layout changes in globals.css and page.tsx
+    
+    Updated font for body and adjusted layout in main section
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit 3bee26927dd1b8513b71a5bc51377ac04534e043[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Thu Oct 8 08:57:22 2026 +0000
+
+    feat: update product section ID from Bengali to English
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit e401341223376d6721a891efec1f07ef4e3a5801[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Thu Oct 8 08:56:51 2026 +0000
+
+    feat: add initial project files and setup for Bengali market-price dashboard
+    
+    V0-Chat-Id: jdlz1VNHyRV
+
+[33mcommit bd10b68056830af319cf749d4a2048b611ab069a[m
+Author: abdullahsabbir242-4997 <abdullah.sabbir.242@northsouth.edu>
+Date:   Thu Oct 8 08:54:24 2026 +0000
+
+    Initial commit from v0
+    
+    V0-Initial-Commit: v1
+    V0-Chat-Id: jdlz1VNHyRV

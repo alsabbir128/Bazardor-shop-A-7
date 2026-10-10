@@ -1,0 +1,10 @@
+[33m84f4f4d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/v0/add-33-products[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Link product cards to API detail pages
+[33m106e212[m Use Bazardor API data and complete requirements
+[33mb8caf9e[m Use Supabase for persistent email password auth
+[33m45edcdd[m Use signed-in user details and clear account on signout
+[33m35d5d6e[m Show current Bengali date in header
+[33mcf943d5[m Add signed-in account profile experience
+[33md0bd5e0[m Align headers and page content left
+[33m3ee56ce[m Add complete 33-product market catalog
+[33m376b22e[m feat: enhance product page with trend indicators and price summary
+[33mea0f341[m feat: adjust text direction for market updates section
